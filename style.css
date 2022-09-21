@@ -12,8 +12,11 @@ section{
     align-items: center;
     justify-content: center;
     width: 100vw;
+    max-width: 100%;
     gap:30px;
     padding:60px;
+    min-height:100vh;
+    
 }
 
 
@@ -24,6 +27,7 @@ section{
     display: flex;
     flex-direction: column;
     border-radius: solid 1px #000;
+    
 
 }
 
